@@ -412,13 +412,6 @@ void CariBarang() {
         printf("Pilihan metode tidak valid!\n");
     }
 }
-	
-				
-	
-	
-	
-	
-	
 			
 	
 	
